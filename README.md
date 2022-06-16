@@ -12,3 +12,12 @@ The line graph shows the number of completed, failed, or canceled projects by mo
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/105666905/174185738-02cbb236-c6f4-4caf-a6e2-a81c74bc50f8.png)
 
 May is the month with the most successful Kickstarter campaigns, we can conclude. However, the number of failed campaigns was roughly the same in May, June, July, August, and October.
+
+### Analysis of Outcomes Based on Goals
+
+I crafted another line chart based on the funding goal amounts to show the percentage of successful, failed, and canceled plays.
+First, I made a sheet titled "Outcomes Based on Goals" with the columns listed below:
+
+Goal, Number Successful, Number Failed, Number Canceled, Total Projects, Percentage Successful, Percentage Failed, Percentage Canceled.
+
+Then, within the "Goals" column, I organized the projects by the dollar amounts listed below:
