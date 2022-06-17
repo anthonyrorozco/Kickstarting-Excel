@@ -31,7 +31,7 @@ I then used the COUNTIFS() function to collect the outcome and goal data from th
 
 At last, I made a line chart to show the relationship between the goal-amount ranges on the x-axis and the percentage of successful, failed, and canceled projects on the y-axis.
 
-![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/105666905/174196667-2b5dffcf-8c31-4059-8607-54929a7eb122.png)
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/105666905/174205693-eec13762-a276-44b1-b047-528a53e3ba3e.png)
 
 We can deduce that there is a link between the campaign's success or failure rate and the goal amount. As the funding goal amount increases, we can deduce that the rate of successful projects will decrease. However, a few projects with budgets ranging from $35,000 to $34,999 and $40,0000 to $44,999 were successfully launched. Because of the dataset's limitations, the reason for the discrepancy is unknown. We could theorize that the projects with higher goals had higher demand and a better marketing campaign to generate more interest, but our current dataset does not support this. More data sets would help us apply this theory and gain a better understanding of it.
 
