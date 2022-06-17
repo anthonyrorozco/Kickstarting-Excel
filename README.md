@@ -23,7 +23,7 @@ First, I made a sheet titled "Outcomes Based on Goals" with the columns listed b
 Goal, Number Successful, Number Failed, Number Canceled, Total Projects, Percentage Successful, Percentage Failed, Percentage Canceled.
 
 Then, within the "Goals" column, I organized the projects by the dollar amounts listed below:
-Less Than 1000, 1000-4999, 5000-9999, 10000-14999, 15000-19999, 20000-24999, 25000-29999, 30000-34999, 35000-39999, 40000-44999, 45000-49999, Greater than 50000
+Less Than $1000, $1000-$4999, $5000-$9999, $10000-$14999, $15000-$19999, $20000-$24999, $25000-$29999, $30000-$34999, $35000-$39999, $40000-$44999, $45000-$49999, Greater than $50000
 
 I then used the COUNTIFS() function to collect the outcome and goal data from the "plays" subcategory to populate the number of successful, failed, and canceled projects. For example, to count the number of successful plays with a goal of less than 1000, I used the following function: =COUNTIFS (Kickstarter!D:D, "1000," Kickstarter!F:F, "=successful," Kickstarter!R:R, "=plays")
 
