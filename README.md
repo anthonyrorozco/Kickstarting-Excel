@@ -45,4 +45,4 @@ Based on our data, we know that the best time to launch a campaign is in May. Th
 
 We can conclude with certainty that the majority of these high-budget forced campaigns were failures. We know that films with a lower budget have the most success, while those with a higher budget have a higher rate of failure. We can't just force a play with money. Some, however, were successful in the $35,000-$45,000 range, so we'd benefit from more data.
 
-This data would benefit from a graph on project outcomes based on average donation to see how it correlates.
+Additional tables and graphs can be generated to further analyze the Kickstarter campaigns. It would be beneficial to conduct a comparative analysis of theater campaigns in relation to the other 8 parent categories.
