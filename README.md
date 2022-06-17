@@ -2,9 +2,11 @@
 
 ## Overview of Project
 ### Purpose
+
 This project investigates various Kickstarter campaigns and how they performed in terms of launch dates and funding goals.
 ## Analysis and Challenges
 ### Analysis of Outcomes Based on Launch Date
+
 The Parent Category and Years columns were used to create a pivot table. Then, within the pivot table, I filtered the Parent Category by Theater to examine the theater category. Finally, I used the pivot table to create a dotted line chart to show the relationship between outcomes and launch month.
 I used the YEAR() function to extract the year from the Date Created Conversion column and placed the data in a new column, Years, to create the Years column. I then filtered the Parent Category by Theater within the pivot table to analyze the theater category.
 The line graph shows the number of completed, failed, or canceled projects by month. We can see how each month influenced the fundraising campaign outcome using the line chart visualization.
@@ -29,3 +31,6 @@ At last, I made a line chart to show the relationship between the goal-amount ra
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/105666905/174196667-2b5dffcf-8c31-4059-8607-54929a7eb122.png)
 
 We can deduce that there is a link between the campaign's success or failure rate and the goal amount. As the funding goal amount increases, we can deduce that the rate of successful projects will decrease. However, a few projects with budgets ranging from $35,000 to $34,999 and $40,0000 to $44,999 were successfully launched. Because of the dataset's limitations, the reason for the discrepancy is unknown. We could speculate that the projects with higher goals had higher demand and a better marketing campaign to generate more interest, but our current dataset does not support this. More data sets would help us apply this theory and gain a better understanding of it.
+
+### Challenges and Difficulties Encountered
+
